@@ -9,10 +9,12 @@ function App () {
   const addValue = () => {
     //console.log( "Current Value", counter )
     //counter = counter + 1
+    //alert( 'How are you Puggu' )
     setCounter( counter + 1 )
     //console.log( "New Value", counter )
   }
   const removeValue = () => {
+    //alert( 'Hey Puggu' )
     setCounter( counter - 1 )
   }
 
